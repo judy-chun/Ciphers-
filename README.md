@@ -1,0 +1,2 @@
+# Ciphers-
+Creating an encoder and decoder. Using encryption to decode messages and using a custom encoder. Encoding with variable keys and breaking a variable encoder and decoding a provided message. Using various collection types such as lists, tuples, dictionaries, and list of lists. Working with collections such as indexing, comparisons using indexing. Combining loops and conditionals to perform operators. 
